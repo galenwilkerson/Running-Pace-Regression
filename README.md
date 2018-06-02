@@ -3,7 +3,7 @@
 
 This is a basic notebook to perform a linear regression on your running data.
 
-Also, a sample notebook has been included.  
+Also, a sample spreadsheet has been included.  
 
 I've done this for myself and am sharing, use at your own risk.
 
