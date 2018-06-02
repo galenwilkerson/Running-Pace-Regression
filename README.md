@@ -9,7 +9,7 @@ I've done this for myself and am sharing, use at your own risk.
 
 Steps I use:
 
-- install anaconda 3
+- install anaconda 3.6  https://www.anaconda.com/download/
 - create data spreadsheet using excel, libreoffice, etc., save as .csv
 - run the notebook
 
